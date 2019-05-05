@@ -26,7 +26,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 2. 손으로 성화를 옮겨 성화봉송대에 옮기면 불이 붙고 게임이 시작된다
 3. 손의 x,y 좌표를 움직여 캐릭터 선택(남,여)를 한다
 
-![화면1](image/홈화면.jpg) ![화면2](image/fire.jpg)
+![화면1]<img src="image/홈화면.jpg" height="200"> ![화면2]<img src="image/fire.jpg" height="200">
 
 ####  1
 동화 속에서 앨리스가 토끼를 만나는 장면을 빠르게 움직이는 동화 속의 토끼를 사용자가 손으로 잡는 것으로 설정하였다.
