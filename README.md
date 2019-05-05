@@ -1,6 +1,6 @@
 # Homelympic
 
-<img src="img/Kinect.jpg" height="200"><img src="img/ScratchX.jpg" height="200"><img src="img/skeleton.jpg" height="200">
+<img src="img/kinect.jpg" height="200"><img src="img/scratchX.png" height="200">
 
 #### Members
 - 변지혜, 이동희, 정진호, 최현종
@@ -26,7 +26,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 2. 손으로 성화를 옮겨 성화봉송대에 옮기면 불이 붙고 게임이 시작된다
 3. 손의 x,y 좌표를 움직여 캐릭터 선택(남,여)를 한다
 
-![화면1](img/photo2.png)
+![화면1](img/홈화면.jpg) ![화면2](img/fire.jpg)
 
 ####  1
 동화 속에서 앨리스가 토끼를 만나는 장면을 빠르게 움직이는 동화 속의 토끼를 사용자가 손으로 잡는 것으로 설정하였다.
