@@ -1,35 +1,34 @@
 # Homelympic
-# Interactive Media Art
 
 <img src="img/Kinect.jpg" height="200"><img src="img/ScratchX.jpg" height="200"><img src="img/skeleton.jpg" height="200">
 
 #### Members
-- 이재호, 박현주, 문주혜, 서충모, 여주은, 김동주, 정지민
-
+- 변지혜, 이동희, 정진호, 최현종
 #### Agenda
-- ScratchX를 이용한 Kinect 애니메이션 제작
-- 주제1. 동화 Visual Novel: 이상한 나라의 엘리스
-- 주제2: 영화 홍보 게임: 아이언맨
-- 주제3: 공익 광고 게임: 북한이탈주민 인남이의 상처되는 말 피하기
+- ScratchX를 이용한 Kinect 게임 제작
 
 
 
 <br><br><br>
 
-## 주제1. 동화 Visual Novel: 이상한 나라의 엘리스
+## 주제. 집에서 즐길 수 있는 올림픽 게임
 ### 아이디어 선정 과정
-키넥트를 가장 신기하고 흥미롭게 사용할 수 있을 대상은 어린이라고 생각하였다. 어린이 교육을 위해 동화를 실제로 체험할 수 있는 시나리오를 설정하였다. 동화 중에서 가장 신비롭다고 할 수 있는 “이상한 나라의 앨리스”를 주제로 3단계의 게임을 제작하였다
+Idea: Using the Kinect that can be used throughout the body, we are going to enhance the reality of Olympic Games and allow users to gain new and special experiences. 
+
+-Target: We are going to provide ‘Olympics’ game to the people who don’t want to go out of their house, but want to do something active and who are not familiar with Kinect.
+
+-Purpose and Expectation: The user can experience various activity (sports game) at home, and they can have a special experience.
 
 ### 주요 내용
 #### 시작 화면
-앨리스가 이상한 나라의 문을 여는 장면을 통해 사용자가 본인이 동화 속의 앨리스가 되었다는 것을 인식할 수 있도록 하였다.
-1. 사용자의 손의 위치가 인식
-2. 열쇠 이미지에 사용자의 손이 닿으면 열쇠가 손의 위치를 따라가게 설정
-3. 열쇠가 넣어질 공간의 x,y 좌표가 열쇠의 좌표와 같아지면 성공을 알리는 효과음과 함께 다음 장면으로 넘어간다.
+시작하는 과정을 올림픽과 유사하게 만들어 올림픽을 경험하는 느낌을 주었다.
+1. 올림픽 문양과 유사한 디자인의 Homelympic 문구가 나온다
+2. 손으로 성화를 옮겨 성화봉송대에 옮기면 불이 붙고 게임이 시작된다
+3. 손의 x,y 좌표를 움직여 캐릭터 선택(남,여)를 한다
 
 ![화면1](img/photo2.png)
 
-#### 장면 1
+####  1
 동화 속에서 앨리스가 토끼를 만나는 장면을 빠르게 움직이는 동화 속의 토끼를 사용자가 손으로 잡는 것으로 설정하였다.
 1. npc 토끼: 진행될 게임의 방식을 설명한다
 2. 토끼의 x,y 좌표를 0.6 초 간격으로 화면 이미지에 맞게 랜덤으로 설정한다
