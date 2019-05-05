@@ -45,7 +45,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 4. 캐릭터가 통과선 안으로 들어오는 순서대로 순위가 매겨진다
 5. 순위에 따라서 메달 수여
 
-![화면4](image/run.png)
+![화면4](image/swim.png)
 
 #### 종목 3 : 수영
 특정 좌표를 화면 안에 지정하고 왼손과 오른손이 그 범위 안에 들어왔을 때 캐릭터를 앞으로 움직이게 설정
@@ -55,7 +55,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 4. 캐릭터가 통과선 안으로 들어오는 순서대로 순위가 매겨진다
 5. 순위에 따라서 메달 수여
 
-![화면5](image/swim.png)
+![화면5](image/run.png)
 
 #### 종목 4 : 리듬체조
 4가지 동작의 좌표를 각각 다르게 설정하고 사용자가 그 좌표에 맞게 몸을 움직이면 통과
