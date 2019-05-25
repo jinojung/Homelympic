@@ -25,9 +25,9 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 1. 올림픽 문양과 유사한 디자인의 Homelympic 문구가 나온다
 2. 손의 x,y 좌표를 움직여 캐릭터 선택(남,여)를 한다
 
-![화면1]<img src="image/start.png" height="200"> 
+![화면1]<img src="image/start.PNG" height="200"> 
 3. 손으로 성화를 옮겨 성화봉송대에 옮기면 불이 붙고 게임이 시작된다
-![화면2]<img src="image/torch.png" height="200">
+![화면2]<img src="image/torch.PNG" height="200">
 
 ####  종목 1 : 권투
 링 안에서 상대방 랜덤으로 나타다는 상대방 선수를 사용자가 주먹으로 때리는 것으로 설정하였다.
@@ -36,7 +36,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 3. 상대가 맞을 때 마다 게임적인 흥미 요소를 추가시키기 위해 이펙트를 추가
 4. 상대방의 이미지에 글러브에 닿으면 점수가 올라간다
 5. 점수에 따라서 메달 수여
-![화면3]<img src="image/Box.png" height="200">
+![화면3]<img src="image/Box.PNG" height="200">
 
 #### 종목 2 : 수영
 특정 좌표를 화면 안에 지정하고 왼손과 오른손이 그 범위 안에 들어왔을 때 캐릭터를 앞으로 움직이게 설정
@@ -46,7 +46,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 4. 캐릭터가 통과선 안으로 들어오는 순서대로 순위가 매겨진다
 5. 순위에 따라서 메달 수여
 
-![화면4]<img src="image/run.png" height="200">
+![화면4]<img src="image/swim.PNG" height="200">
 
 #### 종목 3 : 달리기
 다리를 허리 위로 움직일 때마다 캐릭터가 앞으로 조금씩 움직이게 설정했다.
@@ -56,7 +56,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 4. 캐릭터가 통과선 안으로 들어오는 순서대로 순위가 매겨진다
 5. 순위에 따라서 메달 수여
 
-![화면5]<img src="image/run.png" height="200">
+![화면5]<img src="image/run.PNG" height="200">
 
 #### 종목 4 : 리듬체조
 4가지 동작의 좌표를 각각 다르게 설정하고 사용자가 그 좌표에 맞게 몸을 움직이면 통과
@@ -69,7 +69,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 #### Ending
 게임을 모두 마쳤을 때, 4개의 게임에서 받았던 메달에 점수를 부여(금:3, 은:2, 동:1, 무:0)하여 등수를 선정하고, 등수에 따라서 시상식에 캐릭터가 올라가 상을 수여받도록 한다. 
 
-![화면7](image/award.png)
+![화면7](image/award.PNG)
 
 ### Playing Video
 
