@@ -26,6 +26,7 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 2. 손의 x,y 좌표를 움직여 캐릭터 선택(남,여)를 한다
 
 ![화면1]<img src="image/start.PNG" height="200"> 
+
 3. 손으로 성화를 옮겨 성화봉송대에 옮기면 불이 붙고 게임이 시작된다
 ![화면2]<img src="image/torch.PNG" height="200">
 
@@ -100,5 +101,6 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 -This is too active so it's hard to enjoy at home
 -There is no enough space for enjoying this contents
 
-### Reference
+### Source Code
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nLRnyeqk7_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
