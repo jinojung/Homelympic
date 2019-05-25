@@ -72,9 +72,6 @@ Idea: Using the Kinect that can be used throughout the body, we are going to enh
 
 ![화면7](image/award.PNG)
 
-### Playing Video
-
-
 ### 구현 원리
 1. 캐릭터 선택 > 남자를 택할때는 1로 여자로는 2로 charactor라는 변수에 저장되게 함 > 페이지 마다 if문을 사용해서 1이면 남자 캐릭터가 뜨게 2면 여자 캐릭터가 뜨게 함
 2. 복싱 > 30초라는 제한 시간 안에 heart 10개를 주고 오른손이나 왼손이 복서의 좌표 x,y 둘다 +-20 안에 들어모면 heart가 1개씩 깎임
